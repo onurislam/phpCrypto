@@ -7,6 +7,6 @@ $key = "12345";<br>
 $crypto = new Crypto($chiper,$key);<br>
 <br>
 echo $crypto->Encrypt($data);<br>
-print_r($crypto->Decrypt("GTMt22IZikvst5BuuGqnlnYUUl4iGfa2XWio0yw6gr8="));
+print_r($crypto->Decrypt("GTMt22IZikvst5BuuGqnln"));
 
 </p>
